@@ -1,0 +1,17 @@
+{
+  "name": "NodejsWebApp",
+  "version": "0.0.0",
+  "description": "NodejsWebApp",
+  "main": "server.js",
+  "author": {
+    "name": "Bryan",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "express": "^3.19.1",
+    "lodash": "^2.4.1",
+    "odata-server": "^1.3.7",
+    "stringify-object": "^1.0.0"
+  }
+}
